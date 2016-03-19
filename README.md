@@ -1,3 +1,3 @@
 # code-house
 
-I'm a college student looking to get an internship and learn more about coding
+The Repo is used to show my work for Truefit's internship test.
